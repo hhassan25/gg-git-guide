@@ -1,0 +1,42 @@
+In this file we will discuss the main terminal commands that you should know before start working with "git" or any software depending on termainals and command lines
+if your familiar with this concept you can just skip this file and start with git.
+
+1) the command "pwd":
+usually we use this command to know the path of our directory that we are working in.
+
+2) the command "cd": 
+this command is used to pass to a specific folder. For example if we have a folder named "new" and we want to enter it using a command, then we can use "cd new".
+If we want to go back to the latest folder or directory we use the command "cd ..".
+
+3) the command "mkdir":
+we use this command to create a new folder within our directory.
+
+4) the command "touch":
+we use this command to create a new file (txt, html, css....) in the current directory.
+
+5) the command "ls":
+we use the this command to see the files that are already created in our current directory.
+
+6) the command "mv":
+we use this command to change the name of a specific file. For example if we want to change the name of "index.html" file to "about.html" file, we use the command as follows:
+"mv index.html about.html"
+
+7) the command "rm":
+we use this file to delete a file, for example if we want to delete our index.html file, we use the command as follows:
+"rm index.html"
+
+8) the command "rm -rf":
+we use this command to delete folder, the same as we had done in the above command (7).
+
+9) the command "clear":
+we use this command to clear our command line window (power shell, cmd, windows termianl ....) from previous commands and lines.
+
+10) the command "code":
+this command is used to open a file in vscode IDE. For example:
+"code index.html"
+then after clicking on enter the file index.html will be opened in vscode.
+
+Conclusion:
+These are the main commands that we should know to be able to work with git and to deal with terminals.
+
+**Let us continue and start with "git"**
